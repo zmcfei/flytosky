@@ -8,9 +8,8 @@ lsi: false
 rdiscount:
   extensions: [smart, generate_toc]
   toc_token: "{:toc}"
-
 # Custom variables
-title: "Vern's Blog"
+title: "海涛's Blog"
 url: http://du1abadd.org
 cloud_html: _includes/cloud.html
 cloud_size: 100
